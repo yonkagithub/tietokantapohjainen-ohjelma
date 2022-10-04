@@ -1,4 +1,18 @@
-# Käyttäjähakukone
+# Käyttäjätietokanta
+
+Ohjelmalla voi lisätä henkilöitä lisäämällä nimi ja kuvaus kenttiin tiedot ja painamalla tallenna.
+Ohjelma lisää nimen ja kuvauksen tietokantaan.
+
+![image](https://user-images.githubusercontent.com/58195830/193916738-505a368c-fba4-4dfa-b9e7-1f1c54c323c9.png)
+
+Ohjelmalla voi muokata tietokannasta löytyviä nimiä ja kuvauksia.
+Tallennetut tiedot päivittyvät tietokantaan.
+
+![image](https://user-images.githubusercontent.com/58195830/193917265-cfda2340-eca3-4616-a491-4a45fc3a29b9.png)
+
+Ohjelmalla voi poistaa nimiä ja kuvauksia tietokannasta.
+
+![image](https://user-images.githubusercontent.com/58195830/193917580-92bff08a-3ff5-4ee7-bdf7-0edb97df43eb.png)
 
 Ohjelmalla voi hakea käyttäjiä mysql tietokannasta kirjoittamalla nimen nimi kenttään.
 
